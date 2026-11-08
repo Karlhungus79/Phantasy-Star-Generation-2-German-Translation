@@ -8,7 +8,7 @@
 
 A complete German fan translation of **Phantasy Star Generation:2** (SEGA AGES 2500 Vol. 17, PlayStation 2, SLPM-62553), built on the PSCave English patch v4.00 – plus a set of quality-of-life extensions that go well beyond a plain translation.
 
-Version: `[VERSION]`
+Version: `1.0` (build `20261027_232210`)
 
 ## Quality-of-life features
 
@@ -64,11 +64,11 @@ Windows, about 600 MB of free disk space.
 
 1. Put the contents of this package and your base file(s) into one folder.
 2. Double-click `apply_patch.bat`. It takes about a minute. At the end it prints **"Pruefsumme OK."** (checksum OK). If it prints a warning, do not start the game and report the problem.
-3. Start `PSG2_DE_[VERSION].cue` in your emulator.
+3. Start `PSG2_DE_20261027_232210.cue` in your emulator.
 
-Manual alternative: `xdelta3.exe -d -s PSGEN2-ENGv400.bin PSG2_DE_[VERSION].xdelta PSG2_DE_[VERSION].bin`
+Manual alternative: `xdelta3.exe -d -s PSGEN2-ENGv400.bin PSG2_DE_20261027_232210.xdelta PSG2_DE_20261027_232210.bin`
 
-Expected result: CRC32 `[CRC32]`, SHA-1 `[SHA-1]`.
+Expected result: CRC32 `4BCE022D`, SHA-1 `0038bd9f5275050ebf385d85ae2ac8ec08b31db7`.
 
 ## Notes
 
@@ -101,7 +101,7 @@ This is an unofficial fan project and not affiliated with SEGA. The patch contai
 
 Eine vollständige deutsche Fan-Übersetzung von **Phantasy Star Generation:2** (SEGA AGES 2500 Vol. 17, PlayStation 2, SLPM-62553) auf Basis des englischen PSCave-Patches v4.00 – dazu eine Reihe von Komfortfunktionen, die weit über eine reine Übersetzung hinausgehen.
 
-Version: `[VERSION]`
+Version: `1.0` (build `20261027_232210`)
 
 ## Komfortfunktionen (QOL)
 
@@ -157,11 +157,11 @@ Windows, ca. 600 MB freier Speicherplatz.
 
 1. Den Inhalt dieses Pakets und die Basis-Datei(en) in einen Ordner legen.
 2. `apply_patch.bat` doppelklicken. Das dauert etwa eine Minute. Am Ende steht **„Pruefsumme OK.“**. Kommt eine Warnung, das Spiel nicht starten und den Fehler melden.
-3. `PSG2_DE_[VERSION].cue` im Emulator starten.
+3. `PSG2_DE_20261027_232210.cue` im Emulator starten.
 
-Manuell: `xdelta3.exe -d -s PSGEN2-ENGv400.bin PSG2_DE_[VERSION].xdelta PSG2_DE_[VERSION].bin`
+Manuell: `xdelta3.exe -d -s PSGEN2-ENGv400.bin PSG2_DE_20261027_232210.xdelta PSG2_DE_20261027_232210.bin`
 
-Erwartetes Ergebnis: CRC32 `[CRC32]`, SHA-1 `[SHA-1]`.
+Erwartetes Ergebnis: CRC32 `4BCE022D`, SHA-1 `0038bd9f5275050ebf385d85ae2ac8ec08b31db7`.
 
 ## Hinweise
 
